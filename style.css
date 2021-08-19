@@ -2,6 +2,7 @@ body {
     margin: 0px 0px 0px 203px;
     background-color: palegoldenrod;
     font-family: Helvetica;
+    overflow-x: hidden;
 }
 
 nav {
